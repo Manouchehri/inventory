@@ -1,24 +1,24 @@
-Comment,Description,Designator,Footprint,LibRef,Quantity
-104,"Capacitor, Capacitor (Semiconductor SIM Model)","C1, C2, C3, C4, C5, C6, C7, C14",1608[0603],"Cap2, Cap Semi",8
-0.1uF,Capacitor,"C8, C10, C13, C15, C16",1608[0603],CAP,5
-22uF,Electrolytic Capacitor,"C9, C11, C12",3528,ELECTRO1,3
-1N4148,High Conductance Fast Diode,D1,C1206,1N4148,1
-LED0,Typical INFRARED GaAs LED,D2,J1-0603,LED0,1
-LED3,Typical BLUE SiC LED,D3,1608[0603],LED3,1
-LED0,Typical INFRARED GaAs LED,"D4, D5, D6",1608[0603],LED0,3
-Header 14X2,"Header, 14-Pin, Dual row","P1, P2, P3, P4",HDR2X14,Header 14X2,4
-AS,"Header, 5-Pin, Dual row",P5,HDR2X5,Header 5X2,1
-JTAG,"Header, 5-Pin, Dual row",P6,HDR2X5,Header 5X2,1
-POWER,,P7,POWER_BIG,POWER,1
-POWER,"Header, 2-Pin",P8,HDR1X2,Header 2,1
-PUSH,,PUSH1,PUSH_SMD_2PIN,PUSH,1
-0,Resistor,"R1, R2, R9, R10",J1-0603,Res3,4
-5K6,Resistor,"R3, R15, R16, R18, R19",1608[0603],Res1,5
-10K,Resistor,"R4, R5, R6, R7, R13, R14",1608[0603],"Res1, RES2",6
-1K,Resistor,"R8, R11, R12",1608[0603],Res1,3
-SW_ZISUO_6,,SW1,SW1-S,SW_ZISUO,1
-EP2C5T144C8,"Cyclone II Family, 1.2V FPGA, 89 I/O Pins, 2 PLLs, 144-Pin TQFP, Speed Grade 8, Commercial Grade",U2,TQFP144_N,EP2C5T144C8,1
-EPCS4SI8,"EPCS4 Series, In-system programmable 3.3V serial configuration device, 8-Pin SOIC, 4-Megabit, Industrial Grade",U3,SOIC8_N,EPCS4SI8,1
-ASM1117-1.2,Three-Terminal Adjustable Output Positive Voltage Regulator,U4,SOT223,LM317MAT(3),1
-ASM1085CT-3.3,Three-Terminal Adjustable Output Positive Voltage Regulator,U5,TO-252AA,LM317MAT(3),1
-OSC_50MHZ,,U6,OSC_50MHZ,OSC_50MHZ,1
+"Comment","Description","Designator","Footprint","LibRef","Quantity"
+"104","Capacitor, Capacitor (Semiconductor SIM Model)","C1, C2, C3, C4, C5, C6, C7, C14","1608[0603]","Cap2, Cap Semi","8"
+"0.1uF","Capacitor","C8, C10, C13, C15, C16","1608[0603]","CAP","5"
+"22uF","Electrolytic Capacitor","C9, C11, C12","3528","ELECTRO1","3"
+"1N4148","High Conductance Fast Diode","D1","C1206","1N4148","1"
+"LED0","Typical INFRARED GaAs LED","D2","J1-0603","LED0","1"
+"LED3","Typical BLUE SiC LED","D3","1608[0603]","LED3","1"
+"LED0","Typical INFRARED GaAs LED","D4, D5, D6","1608[0603]","LED0","3"
+"Header 14X2","Header, 14-Pin, Dual row","P1, P2, P3, P4","HDR2X14","Header 14X2","4"
+"AS","Header, 5-Pin, Dual row","P5","HDR2X5","Header 5X2","1"
+"JTAG","Header, 5-Pin, Dual row","P6","HDR2X5","Header 5X2","1"
+"POWER",,"P7","POWER_BIG","POWER","1"
+"POWER","Header, 2-Pin","P8","HDR1X2","Header 2","1"
+"PUSH",,"PUSH1","PUSH_SMD_2PIN","PUSH","1"
+"0","Resistor","R1, R2, R9, R10","J1-0603","Res3","4"
+"5K6","Resistor","R3, R15, R16, R18, R19","1608[0603]","Res1","5"
+"10K","Resistor","R4, R5, R6, R7, R13, R14","1608[0603]","Res1, RES2","6"
+"1K","Resistor","R8, R11, R12","1608[0603]","Res1","3"
+"SW_ZISUO_6",,"SW1","SW1-S","SW_ZISUO","1"
+"EP2C5T144C8","Cyclone II Family, 1.2V FPGA, 89 I/O Pins, 2 PLLs, 144-Pin TQFP, Speed Grade 8, Commercial Grade","U2","TQFP144_N","EP2C5T144C8","1"
+"EPCS4SI8","EPCS4 Series, In-system programmable 3.3V serial configuration device, 8-Pin SOIC, 4-Megabit, Industrial Grade","U3","SOIC8_N","EPCS4SI8","1"
+"ASM1117-1.2","Three-Terminal Adjustable Output Positive Voltage Regulator","U4","SOT223","LM317MAT(3)","1"
+"ASM1085CT-3.3","Three-Terminal Adjustable Output Positive Voltage Regulator","U5","TO-252AA","LM317MAT(3)","1"
+"OSC_50MHZ",,"U6","OSC_50MHZ","OSC_50MHZ","1"
