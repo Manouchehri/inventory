@@ -1,0 +1,22 @@
+[71357.101312] usbcore: registered new interface driver carl9170
+[71357.119086] usb 4-1.1: driver   API: 1.9.7 2012-12-15 [1-1]
+[71357.119092] usb 4-1.1: firmware API: 1.9.6 2012-07-07
+[71357.459794] ath: EEPROM regdomain: 0x0
+[71357.459797] ath: EEPROM indicates default country code should be used
+[71357.459799] ath: doing EEPROM country->regdmn map search
+[71357.459800] ath: country maps to regdmn code: 0x3a
+[71357.459802] ath: Country alpha2 being used: US
+[71357.459803] ath: Regpair used: 0x3a
+[71357.460078] ieee80211 phy1: Selected rate control algorithm 'minstrel_ht'
+[71357.466848] usb 4-1.1: Atheros AR9170 is registered as 'phy1'
+[71357.644350] IPv6: ADDRCONF(NETDEV_UP): wlan1: link is not ready
+[71357.644779] cfg80211: Calling CRDA for country: US
+[71357.648682] cfg80211: Current regulatory domain intersected:
+[71357.648686] cfg80211:  DFS Master region: FCC
+[71357.648687] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp), (dfs_cac_time)
+[71357.648690] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (N/A, 3000 mBm), (N/A)
+[71357.648693] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 1700 mBm), (N/A)
+[71357.648695] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2300 mBm), (0 s)
+[71357.648697] cfg80211:   (5490000 KHz - 5600000 KHz @ 80000 KHz), (N/A, 2300 mBm), (0 s)
+[71357.648699] cfg80211:   (5650000 KHz - 5730000 KHz @ 80000 KHz), (N/A, 2300 mBm), (0 s)
+[71357.648700] cfg80211:   (5735000 KHz - 5835000 KHz @ 80000 KHz), (N/A, 3000 mBm), (N/A)

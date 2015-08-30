@@ -1,0 +1,6 @@
+[71137.982094] usb 4-1.1: new full-speed USB device number 40 using ehci-pci
+[71138.113713] gspca_main: v2.14.0 registered
+[71138.122970] gspca_main: sonixj-2.14.0 probing 045e:00f5
+[71138.123802] input: sonixj as /devices/pci0000:00/0000:00:1d.0/usb4/4-1/4-1.1/input/input39
+[71138.124050] usbcore: registered new interface driver sonixj
+[71138.172743] usbcore: registered new interface driver snd-usb-audio

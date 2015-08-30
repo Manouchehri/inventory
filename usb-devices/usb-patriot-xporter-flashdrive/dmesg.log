@@ -1,0 +1,11 @@
+[71885.659942] usb 4-1.1: new high-speed USB device number 43 using ehci-pci
+[71885.746829] usb-storage 4-1.1:1.0: USB Mass Storage device detected
+[71885.746923] scsi host8: usb-storage 4-1.1:1.0
+[71886.776298] scsi 8:0:0:0: Direct-Access              Patriot Memory   PMAP PQ: 0 ANSI: 0 CCS
+[71887.456364] sd 8:0:0:0: [sdb] 15646720 512-byte logical blocks: (8.01 GB/7.46 GiB)
+[71887.459236] sd 8:0:0:0: [sdb] Write Protect is off
+[71887.459240] sd 8:0:0:0: [sdb] Mode Sense: 23 00 00 00
+[71887.462113] sd 8:0:0:0: [sdb] No Caching mode page found
+[71887.462117] sd 8:0:0:0: [sdb] Assuming drive cache: write through
+[71887.493152]  sdb: sdb1
+[71887.500888] sd 8:0:0:0: [sdb] Attached SCSI removable disk

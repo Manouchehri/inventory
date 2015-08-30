@@ -1,0 +1,6 @@
+[74153.037066] usb 4-1.1: new low-speed USB device number 53 using ehci-pci
+[74153.243856] Registered IR keymap rc-ati-x10
+[74153.244002] input: X10 wireless Technology Inc USB Transceiver as /devices/pci0000:00/0000:00:1d.0/usb4/4-1/4-1.1/4-1.1:1.0/rc/rc0/input46
+[74153.244155] rc0: X10 wireless Technology Inc USB Transceiver as /devices/pci0000:00/0000:00:1d.0/usb4/4-1/4-1.1/4-1.1:1.0/rc/rc0
+[74153.244239] input: X10 wireless Technology Inc USB Transceiver mouse as /devices/pci0000:00/0000:00:1d.0/usb4/4-1/4-1.1/4-1.1:1.0/input/input47
+[74153.244426] usbcore: registered new interface driver ati_remote

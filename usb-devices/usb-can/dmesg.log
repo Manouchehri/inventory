@@ -1,0 +1,5 @@
+[69845.493131] usb 4-1.1: new full-speed USB device number 38 using ehci-pci
+[69845.648823] usbcore: registered new interface driver cp210x
+[69845.648852] usbserial: USB Serial support registered for cp210x
+[69845.648900] cp210x 4-1.1:1.0: cp210x converter detected
+[69845.649026] usb 4-1.1: cp210x converter now attached to ttyUSB0
