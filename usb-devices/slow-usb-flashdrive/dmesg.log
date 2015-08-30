@@ -1,0 +1,15 @@
+[76310.516114] usb 4-1.1: new high-speed USB device number 55 using ehci-pci
+[76310.652577] usb-storage 4-1.1:1.0: USB Mass Storage device detected
+[76310.652681] scsi host9: usb-storage 4-1.1:1.0
+[76311.654366] scsi 9:0:0:0: Direct-Access                               0.00 PQ: 0 ANSI: 2
+[76311.655097] scsi 9:0:0:1: CD-ROM                                      0.00 PQ: 0 ANSI: 0 CCS
+[76311.656105] sd 9:0:0:0: [sdb] 7559168 512-byte logical blocks: (3.87 GB/3.60 GiB)
+[76311.660100] sd 9:0:0:0: [sdb] Write Protect is off
+[76311.660107] sd 9:0:0:0: [sdb] Mode Sense: 00 00 00 00
+[76311.660856] sd 9:0:0:0: [sdb] Asking for cache data failed
+[76311.660862] sd 9:0:0:0: [sdb] Assuming drive cache: write through
+[76311.782441]  sdb: sdb1
+[76311.905741] sr 9:0:0:1: [sr0] scsi3-mmc drive: 93x/93x cd/rw xa/form2 cdda tray
+[76311.905747] cdrom: Uniform CD-ROM driver Revision: 3.20
+[76311.905950] sr 9:0:0:1: Attached scsi CD-ROM sr0
+[76312.115605] sd 9:0:0:0: [sdb] Attached SCSI removable disk

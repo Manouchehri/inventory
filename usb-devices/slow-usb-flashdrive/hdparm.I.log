@@ -1,0 +1,28 @@
+
+/dev/sdb:
+
+ATA device, with removable media
+	Model Number:       Ò‚¨À¹«hCu*†»U8Œ‹0û>	dX,n!;	¬úN^6Š|G
+	Serial Number:      èå€` ªª
+	Firmware Revision:  ib@@
+Standards:
+	Likely used: 4
+Configuration:
+	Logical		max	current
+	cylinders	0	0
+	heads		42060	0
+	sectors/track	48889	0
+	--
+	bytes/track: 59621	bytes/sector: 21996
+	Logical/Physical Sector size:           512 bytes
+	device size with M = 1024*1024:           0 MBytes
+	device size with M = 1000*1000:           0 MBytes 
+	cache/buffer size  = 4 KBytes
+Capabilities:
+	IORDY(can be disabled)
+	Buffer size: 4.0kB	bytes avail on r/w long: 69
+	Standby timer values: spec'd by Standard, with device specific minimum
+	R/W multiple sector transfer: Max = 226	Current = 54
+	DMA: not supported
+	PIO: pio0 pio1 pio2 pio6 pio7 
+	     Cycle time: no flow control=14158ns  IORDY flow control=22269ns
