@@ -1,0 +1,5 @@
+[77547.090506] usb 4-1.2.3.2: new full-speed USB device number 57 using ehci-pci
+[77547.222056] cdc_acm 4-1.2.3.2:1.0: Zero length descriptor references
+[77547.222067] cdc_acm: probe of 4-1.2.3.2:1.0 failed with error -22
+[77547.222091] usbcore: registered new interface driver cdc_acm
+[77547.222093] cdc_acm: USB Abstract Control Model driver for USB modems and ISDN adapters
