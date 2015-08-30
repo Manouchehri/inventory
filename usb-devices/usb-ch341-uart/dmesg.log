@@ -1,0 +1,5 @@
+[74965.260987] usb 4-1.1: new full-speed USB device number 54 using ehci-pci
+[74965.410405] usbcore: registered new interface driver ch341
+[74965.410434] usbserial: USB Serial support registered for ch341-uart
+[74965.410459] ch341 4-1.1:1.0: ch341-uart converter detected
+[74965.412781] usb 4-1.1: ch341-uart converter now attached to ttyUSB0
