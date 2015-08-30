@@ -1,0 +1,3 @@
+[97902.009369] usb 4-1.1: new full-speed USB device number 11 using ehci-pci
+[97902.094679] pl2303 4-1.1:1.0: pl2303 converter detected
+[97902.096766] usb 4-1.1: pl2303 converter now attached to ttyUSB0
