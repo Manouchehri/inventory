@@ -1,0 +1,3 @@
+[submodule "usb-devices/usb-hyperfido"]
+	path = usb-devices/usb-hyperfido
+	url = https://github.com/Manouchehri/HyperFIDO.git
