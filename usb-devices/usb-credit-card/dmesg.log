@@ -1,0 +1,11 @@
+[ 4087.293823] usb 4-1.2: new high-speed USB device number 8 using ehci-pci
+[ 4087.406062] usb-storage 4-1.2:1.0: USB Mass Storage device detected
+[ 4087.412350] scsi host7: usb-storage 4-1.2:1.0
+[ 4088.514206] scsi 7:0:0:0: Direct-Access     SMI      USB DISK         1100 PQ: 0 ANSI: 0 CCS
+[ 4088.515659] sd 7:0:0:0: [sdc] 7866368 512-byte logical blocks: (4.02 GB/3.75 GiB)
+[ 4088.516406] sd 7:0:0:0: [sdc] Write Protect is off
+[ 4088.516417] sd 7:0:0:0: [sdc] Mode Sense: 43 00 00 00
+[ 4088.517152] sd 7:0:0:0: [sdc] No Caching mode page found
+[ 4088.517160] sd 7:0:0:0: [sdc] Assuming drive cache: write through
+[ 4088.522547]  sdc: sdc1
+[ 4088.525918] sd 7:0:0:0: [sdc] Attached SCSI removable disk
